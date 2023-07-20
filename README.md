@@ -1,4 +1,5 @@
-<h1 align="center">Python🐍</h1>
+<h1 align="center">Python 🐍</h1>
+<h3 align="center">FreeCodeCamp 🏕️</h3>
 
 # :pushpin: Index
 
@@ -6,14 +7,14 @@
 * [How to Run](#construction_worker-How-to-Run)
 * [Find a Bug? Or something needs to change?](#bug-Issues)
 
-# :sparkles: What is Repo?
+# :sparkles: What is This Repo?
 In pursuit of my passion for becoming a self-taught software engineer, I have embarked on the journey of completing FreeCodeCamp's "Scientific Computing with Python" course. This comprehensive program aims to enhance my Python skills and empower me with valuable knowledge in the field of scientific computing.
 
 As part of the course requirements, I am actively engaged in completing a series of challenging projects that demonstrate my profound understanding of Python concepts, with a particular focus on object-oriented programming. These projects serve as a testament to my dedication and enthusiasm for mastering programming fundamentals.
 
 Upon successful completion of the course and projects, I am looking forward to earning a well-deserved certification, which will signify my readiness to tackle real-world software engineering challenges confidently.
 
-Through this rewarding learning experience, I am consistently honing my coding abilities and fostering a solid foundation for my future endeavors in the software development realm.
+Through this rewarding learning experience, I am consistently honing my coding abilities and fostering a solid foundation for my future endeavours in the software development realm.
 
 ---
 
